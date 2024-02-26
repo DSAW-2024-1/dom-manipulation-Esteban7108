@@ -31,3 +31,14 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | Funcionalidad      | 3       |
 
 
+## Vista teléfono
+<img src="to_dos.ingreso.png">
+
+<img src="todos_lista.png">
+
+
+## Vista computador
+
+<img src="todos_ingreso2.png">
+
+<img src="Todoslista.png">
